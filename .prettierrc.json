@@ -1,0 +1,14 @@
+{
+  "trailingComma": "none",
+  "resource": "/0/settings.json",
+  "owner": "_generated_diagnostic_collection_name_#0",
+  "code": "519",
+  "severity": 4,
+  "message": "Trailing comma",
+  "source": "jsonc",
+  "startLineNumber": 2436,
+  "startColumn": 1,
+  "endLineNumber": 2436,
+  "endColumn": 2,
+  "singleQuote": false
+}
